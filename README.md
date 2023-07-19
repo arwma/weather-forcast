@@ -1,2 +1,2 @@
-# wheather-forcast
+# weather-forcast
 Using Java API
